@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/burger-builder-react/static/css/main.376f94f2.chunk.css",
+    "main.js": "/burger-builder-react/static/js/main.cfb0e1d9.chunk.js",
+    "main.js.map": "/burger-builder-react/static/js/main.cfb0e1d9.chunk.js.map",
+    "runtime~main.js": "/burger-builder-react/static/js/runtime~main.c8c9e250.js",
+    "runtime~main.js.map": "/burger-builder-react/static/js/runtime~main.c8c9e250.js.map",
+    "static/js/2.6e299eea.chunk.js": "/burger-builder-react/static/js/2.6e299eea.chunk.js",
+    "static/js/2.6e299eea.chunk.js.map": "/burger-builder-react/static/js/2.6e299eea.chunk.js.map",
+    "index.html": "/burger-builder-react/index.html",
+    "precache-manifest.b807c48db336c3baeeb37dcf9434ba92.js": "/burger-builder-react/precache-manifest.b807c48db336c3baeeb37dcf9434ba92.js",
+    "service-worker.js": "/burger-builder-react/service-worker.js",
+    "static/css/main.376f94f2.chunk.css.map": "/burger-builder-react/static/css/main.376f94f2.chunk.css.map",
+    "static/media/burger-logo.png": "/burger-builder-react/static/media/burger-logo.b8503d26.png"
+  }
+}
