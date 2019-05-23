@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import axios from '../../axios-orders';
 import Aux from '../../hoc/Au/Au';
-import * as actionTypes from '../../store/actions/actionTypes';
+//import * as actionTypes from '../../store/actions/actionTypes';
 import Burger from '../../Components/Burger/Burger';
 import BuildControls from '../../Components/Burger/BuildControls/BuildControls';
 import Modal from '../../Components/UI/Modal/Modal';
@@ -20,7 +20,7 @@ class BurgerBuilder extends Component {
     }
 
     componentDidMount(){
-        console.log(this.props);
+        //console.log(this.props);
         this.props.onInitIngredients();
         // axios.get('https://react-burger-builder-fa346.firebaseio.com/ingredients.json')
         //     .then(response => {
@@ -69,7 +69,7 @@ class BurgerBuilder extends Component {
         };
         for(let key in disable) {
             disable[key] = disable[key]<=0;
-            console.log(disable[key]);
+           // console.log(disable[key]);
         }
 
         let orderSummary=null;

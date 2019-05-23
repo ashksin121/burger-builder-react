@@ -3,7 +3,7 @@ import {Route, Redirect} from 'react-router-dom';
 import {connect} from 'react-redux';
 import ContactData from '../../Containers/Checkout/ContactData/ContactData';
 import CheckoutSummary from '../../Components/Order/CheckoutSummary/CheckoutSummary';
-import * as actions from '../../store/actions/index';
+//import * as actions from '../../store/actions/index';
 //import { stat } from 'fs';
 
 class Checkout extends Component {
